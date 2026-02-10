@@ -5,6 +5,7 @@ WORKDIR /src
 # Copy repo root content into image
 COPY . .
 
+
 # Restore + publish with correct paths
 RUN dotnet restore AgriProcurementPlatform/Procurement.Api/Procurement.Api.csproj
 RUN dotnet publish AgriProcurementPlatform/Procurement.Api/Procurement.Api.csproj -c Release -o /app/publish --no-restore
