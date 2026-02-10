@@ -199,15 +199,4 @@ It provides a realistic example of a **sector-wide digital platform**, rather th
 Level 6 – Advanced Software Design & Architecture
 Digital Technologies
 
-```
 
----
-
-## ✅ Keyingi qadam
-Agar xohlasang, keyingi bosqichda:
-- 📄 **Assignment Task A, B, C ni shu README asosida yozib beraman**
-- 📊 Architecture diagram (C4-style) matn bilan tushuntirib beraman
-- 📸 Qaysi screenshot’larni topshirishda ishlatishni aniq belgilab beraman
-
-👉 Qaysidan boshlaymiz: **Task A**, **Task B**, yoki **Task C**?
-```
