@@ -536,4 +536,8 @@ Inha University in Tashkent
 This project is developed for academic purposes as part of Level 6 coursework.
 
 ---
+<<<<<<< HEAD
 >>>>>>> b2d29b4 (readme file update)
+=======
+
+>>>>>>> 120dbd6 (update)
