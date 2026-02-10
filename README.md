@@ -109,6 +109,7 @@ The platform exposes a RESTful API with comprehensive procurement functionality:
 - `GET /health` - Health check endpoint for Kubernetes probes
 
 📄 **Interactive API documentation** is available via **Swagger UI** at `/swagger` endpoint.
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/318d9466-5b73-4431-906a-552f520af85e" />
 
 ---
 
@@ -125,6 +126,8 @@ The platform exposes a RESTful API with comprehensive procurement functionality:
 - Represents procurement opportunities with product category, quantity, deadline
 - Supports lifecycle states (Open, Closed)
 - Emits domain events (OpportunityCreated, OpportunityClosed)
+  <img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f9e99502-06f8-4f22-986e-78a65502a7c7" />
+
 
 **Supplier**
 - Represents registered suppliers with legal name and region
@@ -158,6 +161,9 @@ This approach guarantees:
 
 The CI/CD pipeline (`.github/workflows/ci-cd.yml`) automatically:
 
+![Uploading image.png…]()
+
+
 1. **Checkout code** from the repository
 2. **Setup .NET 8 SDK** environment
 3. **Restore dependencies** for the solution
@@ -190,10 +196,12 @@ ArgoCD continuously monitors the Git repository and automatically syncs changes 
 - **Self-healing**: Automatically corrects drift from desired state
 - **Rollback support**: Easy revert to previous Git commit
 - **Audit trail**: Git history tracks all changes
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/d9c8dfa3-d518-4b7d-a205-393de8d81d5f" />
 
 ---
 
 ## ☸️ Kubernetes Deployment
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/be210b4e-b7cf-4c75-8d95-91d6fc97c9e9" />
 
 ### Helm Chart Structure
 
