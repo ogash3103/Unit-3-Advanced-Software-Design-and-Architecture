@@ -31,7 +31,9 @@ jobs:
 
     - name: Build Docker image
       run: |
-        docker build -t ogabek0331/procurement-api:latest AgriProcurementPlatform/Procurement.Api
+          docker build -t ogabek0331/procurement-api:latest \
+          -f AgriProcurementPlatform/Procurement.Api/Dockerfile .
+
 
     - name: Push Docker image
       run: |
