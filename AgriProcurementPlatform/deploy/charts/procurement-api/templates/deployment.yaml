@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: procurement-api
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: procurement-api
+  template:
+    metadata:
+      labels:
+        app: procurement-api
+    spec:
+      containers:
+        - name: procurement-api
+          image: "{{ .Values.image.repository }}:{{ .Values.image.tag }}"
+          imagePullPolicy: {{ .Values.image.pullPolicy }}
+          ports:
+            - containerPort: {{ .Values.service.targetPort }}
+          env:
+            - name: ASPNETCORE_ENVIRONMENT
+              value: "{{ .Values.env.ASPNETCORE_ENVIRONMENT }}"
+            - name: ConnectionStrings__db
+              value: "{{ .Values.env.ConnectionStrings__db }}"
+          livenessProbe:
+            httpGet:
+              path: /health
+              port: {{ .Values.service.targetPort }}
+            initialDelaySeconds: 15
+            periodSeconds: 10
+          readinessProbe:
+            httpGet:
+              path: /health
+              port: {{ .Values.service.targetPort }}
+            initialDelaySeconds: 10
+            periodSeconds: 10

@@ -1,0 +1,17 @@
+replicaCount: 1
+
+image:
+  repository: docker.io/ogabek0331/procurement-api
+  tag: "latest"
+  pullPolicy: IfNotPresent
+
+service:
+  type: ClusterIP
+  port: 80
+  targetPort: 8080
+
+env:
+  ASPNETCORE_ENVIRONMENT: "Production"
+  ConnectionStrings__db: "Host=postgres;Port=5432;Database=procurementdb;Username=postgres;Password=postgres"
+
+resources: {}

@@ -1,0 +1,15 @@
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.csproj.AssemblyReference.cache
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.AssemblyInfoInputs.cache
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.AssemblyInfo.cs
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/bin/Debug/net8.0/Procurement.Application.deps.json
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/bin/Debug/net8.0/Procurement.Application.dll
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/bin/Debug/net8.0/Procurement.Application.pdb
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/bin/Debug/net8.0/Procurement.Domain.dll
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/bin/Debug/net8.0/Procurement.Domain.pdb
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurem.2B6BC217.Up2Date
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.dll
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/refint/Procurement.Application.dll
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.pdb
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/ref/Procurement.Application.dll

@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: procurement-api
+spec:
+  type: {{ .Values.service.type }}
+  selector:
+    app: procurement-api
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: {{ .Values.service.targetPort }}
+      protocol: TCP
