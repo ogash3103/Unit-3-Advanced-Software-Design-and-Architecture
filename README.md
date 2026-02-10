@@ -513,31 +513,16 @@ AgriProcurementPlatform/
     └── Migrations/               # EF Core migrations
 ```
 
----
+
 
 ## 👤 Author
 
-<<<<<<< HEAD
-**Ogabek Faxriddinov**
-Level 6 – Advanced Software Design & Architecture
-Digital Technologies
-
-
-=======
 **Ogabek Faxriddinov**  
 Level 6 – Advanced Software Design & Architecture  
 Digital Technologies  
-Inha University in Tashkent
+PDP University in Tashkent
 
----
 
-## 📄 License
 
-This project is developed for academic purposes as part of Level 6 coursework.
 
----
-<<<<<<< HEAD
->>>>>>> b2d29b4 (readme file update)
-=======
 
->>>>>>> 120dbd6 (update)
