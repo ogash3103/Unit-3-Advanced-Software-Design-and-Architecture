@@ -13,3 +13,4 @@
 /Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/refint/Procurement.Application.dll
 /Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.pdb
 /Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/ref/Procurement.Application.dll
+/Users/apple/Desktop/Level 6 (4-kurslar uchun)/Unit 3 Advanced Software Design and Architecture/AgriProcurementPlatform/Procurement.Application/obj/Debug/net8.0/Procurement.Application.sourcelink.json
