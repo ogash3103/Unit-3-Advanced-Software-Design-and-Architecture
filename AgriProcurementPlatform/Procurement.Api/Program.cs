@@ -26,9 +26,6 @@ builder.Services.AddDbContext<ProcurementDbContext>(opt =>
     opt.UseNpgsql(builder.Configuration.GetConnectionString("db")));
 
 
-
-
-
 var app = builder.Build();
 
 app.UseSwagger();
