@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/ogash3103/Unit-3-Advanced-Software-Design-and-Architecture.git
     targetRevision: main
-    path: deploy/charts/procurement-api
+    path: AgriProcurementPlatform/deploy/charts/procurement-api
     helm:
       valueFiles:
         - values.yaml
